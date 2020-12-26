@@ -1,0 +1,4 @@
+2020/3/21　とりあえず、うごいたサーボモータスケッチ
+ServoControlAとServoControlB同じソースがあって気持ち悪い。
+なんとなく、クラス化して完成
+FunctionDecoderServo0324.ino をベースにアクセサリ化
